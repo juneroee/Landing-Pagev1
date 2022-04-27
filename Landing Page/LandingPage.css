@@ -1,0 +1,228 @@
+body{
+    padding: 0 30px;
+    background-color: #f7f7f7;
+}
+.navigationBar{
+    height: 60px;
+    min-width: 1000px;
+    max-width: 1500px;
+}
+.logo{
+    float: left;
+    height: 80px;
+    width: 80px;
+    margin-left: 50px;
+}
+#slogan{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+    color: #525E75;
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 2px 3px #F1DDBF;
+    font-family: 'BIZ UDPMincho', serif;
+}
+#title{
+    float: left;
+    font-size: 30px;
+    margin-top: 20px;
+    font-family: 'BIZ UDPMincho', serif;
+    color: #525E75;
+}
+#search{
+    height: 30px;
+    margin: 20px 70px 0 100px;
+    float: right;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+}
+li{
+    display: inline;
+    text-decoration: none;   
+}
+.sloganDiv{
+    width: 700px;
+    margin-left: 400px;
+    margin: 1px 0 50px 350px;
+}
+.forBackground{
+    width: 1350px;
+    padding: 11px;
+}
+.firstBox{
+    width: 720px;
+    margin: 0;
+    display: inline-block;
+    margin-left: 50px;
+}
+.twohands{
+    width: 720px;
+    height: 500px;
+}
+.aboutUs{
+    width: 200px;
+    margin: 50px 50px 10px 25px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+    text-align: center;
+}
+.aboutUs h2{
+    color: #92BA92;
+    font-family: 'BIZ UDPMincho', serif;
+    padding: 5px 0;
+}
+.aboutUs p{
+    text-align: justify;
+    font-size: 18px;
+    color: #272727;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.icon{
+    height: 50px;
+}
+h2,p{
+    margin: 0;
+}
+.authors{
+    width: 200px;
+    margin-top: 50px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+}
+.authors h2{
+    color: #92BA92;
+    font-family: 'BIZ UDPMincho', serif;
+    padding: 5px 0;
+}
+.authors p{
+    text-align: justify;
+    font-size: 18px;
+    color: #272727;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.secondBox{
+    width: 510px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 45px;
+}
+.hru{
+    margin-top: 30px;
+    height: 600px;
+    width: 500px;
+}
+.photoGallery{
+    width: 200px;
+    margin: 50px 100px 10px 80px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+}
+.photoGallery h2{
+    color: #92BA92;
+    font-family: 'BIZ UDPMincho', serif;
+    padding: 5px 0;
+}
+.photoGallery p{
+    text-align: justify;
+    font-size: 18px;
+    color: #272727;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.contactUs{
+    width: 200px;
+    margin: 50px 60px 10px 20px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+}
+.contactUs h2{
+    color: #92BA92;
+    font-family: 'BIZ UDPMincho', serif;
+    padding: 5px 0;
+}
+.contactUs p{
+    text-align: justify;
+    font-size: 18px;
+    color: #272727;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.photoGallery:hover{
+    border: 5px solid black;
+}
+.aboutUs:hover{
+    border: 5px solid black;
+}
+.contactUs:hover{
+    border: 5px solid black;
+}
+.authors:hover{
+    border: 5px solid black;
+}
+a{
+    color: black;
+}
+.services{
+    width: 1300px;
+    margin-left: 50px;
+}
+#help{
+    font-size: 20px;
+    color: #525E75;
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 2px 3px #F1DDBF;
+    font-family: 'BIZ UDPMincho', serif;
+}
+.servicesDiv{
+    width: 300px;
+    height: 520px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    border: 1px solid black;
+}
+.servicesDiv p{
+    margin-bottom: 10px;
+}
+.servicesDiv h1{
+    color: #78938A;
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 5px;
+}
+.servicesDiv a{
+    text-decoration: none;
+    color: #272727;
+}
+.servicesDiv a:hover{
+    font-size: 22px;
+    background-color: #F1DDBF;
+    text-shadow: 2px 1px #92BA92;
+}
+.services p{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px;
+}
+.picinservices{
+    width: 620px;
+    height: 520px;
+    background-image: url("Media/dont.avif");
+    background-size: cover;
+    display: inline-block;
+    margin-right: 28px;
+}
+.picservices{
+    width: 300px;
+}
+
